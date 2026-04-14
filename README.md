@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me!</h3>
 
-[![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=D9998B&color:FFF)](mailto:mariaaliciasb2005@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=D9998B&color:FFF)](mailto:mariaaliciasb.dev@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=D9998B&color:FFF)](https://www.instagram.com/alysa19_)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-2e3440?style=for-the-badge&logo=whatsapp&logoColor=D9998B&color:FFF)](https://wa.me/5589981049424)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=D9998B&color:FFF)](https://www.linkedin.com/in/mariaaliciasb/)
