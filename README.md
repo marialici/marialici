@@ -41,12 +41,12 @@
 
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=marialici&theme=rose_pine" alt="GitHub stats">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marialici&theme=rose_pine" alt="GitHub stats">
-  <br>
-  <div>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marialici&theme=rose_pine" alt=""GitHub stats">
-  </div>
+  
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=marialici&theme=rose_pine) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marialici&theme=rose_pine) |
+  | :-: | :-: |
+
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marialici&theme=rose_pine) |
+  | :-: |
 </div>
 
 #
@@ -59,4 +59,4 @@
 
 <br>
 <br>
-<p align="center">‧₊˚ ⋅ 決 意 を 持 っ て ‧₊˚ ⋅
+<p align="center">‧₊˚ ⋅ 決 意 を 持 っ て ⋅ ˚₊‧
